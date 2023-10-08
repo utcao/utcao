@@ -1,20 +1,18 @@
 ### Hi there 👋
 
-I am a bioinformatics technician. I have experience on multi-omics, involving DNA methylation (bisulfute sequence), Accessible chromatin (ATAC-seq, cut-tag), Histone modification, whole genome sequence, RNA-seq and shut-gun protein sequence based on HPLC-MS (DIA, TMT etc). 
-
 🔭 I’m currently working on somatic mutations.
+
 🌱 I’m currently learning pytorch.
-⚡ I am interested in applying artificial intelligence to understand genetic architecture of gene regulation.
 
-### ✍️ Blog & writing
+⚡ I am interested in applying multi-omics and artificial intelligence to understand genetic architecture of gene regulation.
 
-click to view [my homepage](https://utcao.github.io/)
+ ✍️ click to view [Blog & writing](https://utcao.github.io/)
 
 - Bayesian statistics
 
 ### 📈 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utcao&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utcao&layout=compact&exclude_repo=utcao.github.io&langs_count=8&size_weight=0.5&count_weight=0.5)
 
 <!--START_SECTION:waka-->
 
